@@ -2,7 +2,7 @@
 #TECH_CHALLENGE 
 --
 
-Une application simple qui permet d'ajouter des élements dans la base de donnée et génerer une liste des élements enregistrés avec un infinite scroll. 
+Une application simple qui permet d'ajouter des élements dans la base de donnée et de génerer une liste des élements enregistrés avec un infinite scroll. 
 Après installation, le dossier migration vous permet d'installer la structure de la base de données 
 Le projet utilise des dépendances, notamment :
 
